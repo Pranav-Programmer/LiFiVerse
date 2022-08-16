@@ -42,7 +42,7 @@ nav{
 
 .menu ul li{
     list-style: none;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -58,7 +58,7 @@ section{ display: flex;  }
   }
   .pg-footer {
     font-family: 'Roboto', sans-serif;
-    margin-top: 133.5%;
+    margin-top: 138.5%;
     margin-left: 1%;
     margin-right: 30%;
     
